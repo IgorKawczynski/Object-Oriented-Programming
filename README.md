@@ -8,3 +8,5 @@
 <br> 🟢 Exercises based on streams </br>
 <br> 🟢 Exercises based on lambda expression </br>
 <br> 🟢 Abstract, anonymous classes </br>
+
+<br> and much more... </br>
