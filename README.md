@@ -2,7 +2,7 @@
 
 <br> ✅ Learnt basics of object-oriented paradigm in programming</br>
 <br> ✅ Learnt Java's syntax and it's governing rules, etc. </br>
-
+<p></p>
 <p allign="left"> It includes : </p>
 <br> 🟢 Basic exercises like loops, classes, etc. </br>
 <br> 🟢 Exercises based on streams </br>
